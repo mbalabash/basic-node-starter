@@ -1,5 +1,5 @@
 {
-  "name": "clean-node-starter",
+  "name": "basic-node-starter",
   "version": "0.1.0",
   "description": "Just clean and minimal boilerplate for node-js application",
   "main": "index.js",
